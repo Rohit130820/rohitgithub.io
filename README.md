@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate Software Tester and QA Engineer w
 
 Feel free to reach out to me if you'd like to collaborate on projects or have any questions about testing!
 
-- 📧 Email: [your.email@example.com](kadamrohit1308@gmail.com)
+- 📧 Email: kadamrohit1308@gmail.com
 
 
 ---
